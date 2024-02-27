@@ -1,4 +1,4 @@
-# Build a Chatbot to analyze PDF Document Using LLM
+# The art of Prompt Engineering
 
 ## Author : @CognitiveClass.ai
 
@@ -12,8 +12,5 @@
 ## Tech Stack :
 
 - Python
-- HTML
-- CSS
-- JavaScript
-- Flask
+- Jupyter Notebook
 
